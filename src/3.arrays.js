@@ -60,7 +60,7 @@ function insert(arr, item, index) {
 // hint: use .map
 // Example: [1,2,4,5] => [1,4,16,25]
 function square(arr) {
-  return ;
+  return arr.map(x => x * x);
 }
 
 module.exports = {
