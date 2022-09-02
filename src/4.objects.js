@@ -9,8 +9,19 @@
  *      * must use the `class_of` property in the introduction
  */
 const personObject = {
-
+  first_name : "Colin",
+  last_name : "Maxwell",
+  class_of : Number("2024"),
+  full_name : function() {
+    var x = "";
+    x= this.first_name + " " + this.last_name;
+    return x;
+  },
+  introduction : function() {
+    return this.full_name() + " " + this.class_of;
+  }
 };
+
 
 module.exports = {
   personObject
