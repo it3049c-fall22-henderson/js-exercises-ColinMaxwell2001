@@ -9,15 +9,16 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ```md
 - [x] This task is complete.
 ```
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] All Unit tests passed.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 68 automated checks)
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment: 20
 
 ## Self-Reflection:
-<!-- What did you learn that you found interesting -->
+I finally learned how to use stage and commit code with the terminal correctly. I also learned about javascript syntax and how to define objects.
 
 ### How long it took you to finish this?
+4-5 hours
